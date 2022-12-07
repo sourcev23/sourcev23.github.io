@@ -13,9 +13,9 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Hydro[/B][/COLOR]Wizard'
-BUILDERNAME = 'HydroWizard'
-EXCLUDES = [ADDON_ID, 'repository.HydroWizard']
+ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
+BUILDERNAME = 'OpenWizard'
+EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.HydroWizard/wiki/Installing-Builds
 BUILDFILE = 'https://sourcev23.github.io/builds.txt'
 # How often you would like it to check for build updates in days
