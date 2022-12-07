@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Hydro[/B][/COLOR]Wizard'
 BUILDERNAME = 'HydroWizard'
 EXCLUDES = [ADDON_ID, 'repository.HydroWizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.HydroWizard/wiki/Installing-Builds
-BUILDFILE = 'https://'
+BUILDFILE = 'https://sourcev23.github.io/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
