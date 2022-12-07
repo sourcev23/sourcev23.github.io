@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hydro" name="Hydro Repository" version="1.1" provider-name="hydro">
+    <extension point="xbmc.addon.repository" name="Hydro Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/</datadir>
+        </dir>
+        <!-- Repo2-->
+        <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir>
+        <info compressed="false">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/</datadir>
+		</dir>
+        <!-- -->
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Hydro Repo</summary>
+        <description>Welcome to Hydro Repo</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
