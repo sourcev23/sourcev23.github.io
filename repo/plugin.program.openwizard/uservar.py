@@ -94,13 +94,13 @@ AUTOUPDATE = 'Yes'
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'No'
+AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.hydro'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/addons.xml'
+REPOADDONXML = 'http://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/addons.xml'
+REPOZIPURL = 'http://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/'
 #########################################################
 
 #########################################################
