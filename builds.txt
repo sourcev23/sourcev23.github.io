@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.0.0.zip"
+zip="https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.4.9.zip"
 
 name="Build 1"
 version="1.0"
