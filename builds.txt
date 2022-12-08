@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo
 
 name="Build 1"
 version="1.0"
-url="http://https://sourcev23.github.io/builds/build1.zip"
+url="https://sourcev23.github.io/builds/Build1.zip"
 minor="http://"
 gui="http://"
 kodi="19.4"
