@@ -12,7 +12,7 @@
     <description lang="en">[COLOR limegreen][B]Open[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="repository.hydro" name="Hydro Repository" version="1.10" provider-name="hydro">
+</addon><addon id="repository.hydro" name="Hydro Repository" version="1.11" provider-name="hydro">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0" />
 	</requires>
