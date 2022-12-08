@@ -13,7 +13,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR blue][B]Open[/B][/COLOR]Wizard'
+ADDONTITLE = '[COLOR blue][B]Hydro[/B][/COLOR]Wizard'
 BUILDERNAME = 'OpenWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.HydroWizard/wiki/Installing-Builds

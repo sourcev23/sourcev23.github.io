@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hydro" name="Hydro Repository" version="1.6" provider-name="hydro">
+<addon id="repository.hydro" name="Hydro Repository" version="1.7" provider-name="hydro">
     <extension point="xbmc.addon.repository" name="Hydro Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/sourcev23/sourcev23.github.io/master/repo/zips/addons.xml</info>
@@ -22,11 +22,6 @@
             <info>https://raw.githubusercontent.com/heppenowski/repository.heppen/main/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/heppenowski/repository.heppen/main/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.github.com/heppenowski/repository.heppen/main/zips/</datadir>
-        </dir>
-                <dir minversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
