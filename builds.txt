@@ -1,6 +1,6 @@
 name="Example Build 1"
 version="1.0"
-url="http://sourcev23.github.io/builds/Build1.zip"
+url="http://sourcev23.github.io/builds/Build1.zip/"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19.4"
