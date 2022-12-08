@@ -75,9 +75,9 @@ THEME5 = u'[COLOR {color1}]Current Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]'.
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
-HIDECONTACT = 'No'
+HIDECONTACT = 'Yes'
 # You can add \n to do line breaks
-CONTACT = 'Thank you for choosing OpenWizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.openwizard/'
+CONTACT = 'Thank you for choosing openwizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.openwizard/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
 CONTACTFANART = 'http://'
@@ -94,7 +94,7 @@ AUTOUPDATE = 'Yes'
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'No'
+AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.hydro'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
