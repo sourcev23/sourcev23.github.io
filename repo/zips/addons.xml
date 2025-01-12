@@ -145,7 +145,7 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-</addon><addon id="repository.hydro" name="Hydro Repository" version="1.13" provider-name="hydro">
+</addon><addon id="repository.hydro" name="Hydro Repository" version="1.14" provider-name="hydro">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0" />
 	</requires>
