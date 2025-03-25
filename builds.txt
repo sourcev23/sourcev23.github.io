@@ -1,6 +1,6 @@
 name="Build 2025"
 version="2025.2"
-url="http://sourcev23.github.io/builds/Build2025-2.zip"
+url="http://sourcev23.github.io/builds/Build2025.zip"
 minor="http://"
 gui="http://"
 kodi="21.2"
